@@ -84,7 +84,7 @@ if(WEBSITE_URL != ""):
 WELCOME_MESSAGE = f"""
 Hello, NAME! I am your friendly {COIN_NAME} Airdrop bot
 
-⏳You stand a chance to get your hands on free $test tokens!
+⏳You stand a chance to get your hands on free $CNL tokens!
 💰$90,000.00 worth of $CNL is up for grabs and will be split between ALL ELIGIBLE PARTICIPANTS 🏆
 
 🔸For Joining - Get 
@@ -100,15 +100,15 @@ PROCEED_MESSAGE = f"""
 
 Complete the simple steps below and participate now to win👇
 
-♻️Option 1 - BASIC(4,500.000 test for this Option):
-To secure 333 test(IDO price 0.015$): 
-🔘 Subcribe to test Telegram channel 
-🔘 Follow test Twitter account
+♻️Option 1 - BASIC(4,500.000 CNL for this Option):
+To secure 333 CNL(IDO price 0.015$): 
+🔘 Subcribe to CNL Telegram channel 
+🔘 Follow CNL Twitter account
 🔘 Retweet the pinned tweet and tag 3 friends
- - like + retweet pinned tweet (https://twitter.com/test/status/1534969126975852544)
+ - like + retweet pinned tweet (https://twitter.com/ContinentalPad/status/1534969126975852544)
 🔘 Connect  your airdrop wallet address to ContinentalPad (BSC network)
 
-♻️Option 2 - BASIC + referrals(1,500.000 CNL for partner program): Get 333 test according to Option 1 + 133 test for each direct referral made (eligible according to Option 1).
+♻️Option 2 - BASIC + referrals(1,500.000 CNL for partner program): Get 333 CNL according to Option 1 + 133 CNL for each direct referral made (eligible according to Option 1).
 
 NOTE: Users found Cheating would be disqualified & banned immediately.
 
